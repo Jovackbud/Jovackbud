@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://iamvictorok.com"><img src="https://img.shields.io/badge/Portfolio-iamvictorok.com-0A192F?style=flat-square" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/victorkola"><img src="https://img.shields.io/badge/LinkedIn-victorkola-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Abuja%2C%20Nigeria-C9A227?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-2E7D32?style=flat-square" alt="Open to remote"/>
 </p>
 
